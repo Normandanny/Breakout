@@ -12,7 +12,7 @@ var py = 595;
 var pw = 100;
 var ph = 10;
 
-// Set up the blocks
+// Set up the bricks
 var brickRowCount = 7;
 var brickColumnCount = 8;
 var brickWidth = 50;
